@@ -1,5 +1,5 @@
 # profileViewerApp
-This MATLAB App handles raw Licel Data. It can read both binary files and ASCII files (generated with the Licel Advanced Viewer software).
+This MATLAB App handles raw Licel Data. It can read both binary files and ASCII files (generated with the Licel Advanced Viewer software). With Save Data you can save all the data in the licel file into a MATLAB struct.
 
 ![immagine](https://github.com/eavoc/profileViewerApp/assets/34692571/1b079db8-4f29-4840-8363-ea772da94833)
 
