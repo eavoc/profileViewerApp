@@ -4,4 +4,4 @@ This MATLAB App handles raw Licel Data. It can read both binary files and ASCII 
 ![immagine](https://github.com/eavoc/profileViewerApp/assets/34692571/6faae2a6-97d6-48d1-b230-eecad379223b)
 
 Unfortunately the project was abandoned, hence there could be bugs and missing functions.
-One missing function is the background removal and one bug is that, depending on your configuration of the Licel software TCPIP Acquis, you may have to edit the matlab functions readLicel.m and readLicelBin.m.
+Two missing functions are the background removal and a converter for SCC (the push button Export) while one bug is that, depending on your configuration of the Licel software TCPIP Acquis, you may have to edit the matlab functions readLicel.m and readLicelBin.m.
